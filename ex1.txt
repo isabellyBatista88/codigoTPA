@@ -1,4 +1,4 @@
-ackage vetores;
+package vetores;
 
 import java.util.Scanner;
 
@@ -59,4 +59,5 @@ public class Exc1Nãopronto {
 	    }    
 	    entrada.close();
     }    
+
 
